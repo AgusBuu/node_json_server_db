@@ -1,0 +1,79 @@
+{
+  "profesores": [
+    {
+      "nombre": "agus",
+      "apellido": "unaConElUniverso",
+      "materias": [
+        {
+          "nombre": "backend-bases"
+        },
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "Microservicios"
+        }
+      ],
+      "id": "1ccc"
+    },
+    {
+      "id": "fb29",
+      "nombre": "Mati",
+      "apellido": "elMasHermoso",
+      "materias": [
+        {
+          "nombre": "pazYTranquilidad"
+        },
+        {
+          "nombre": "fumarPorro"
+        },
+        {
+          "nombre": "JugarLolsito"
+        },
+        {
+          "nombre": "hacerTostados"
+        }
+      ]
+    }
+  ],
+  "Alumnos": [
+    {
+      "nombre": "miMisma",
+      "apellido": "luzDivina",
+      "promedio": 8.2,
+      "id": "5aa6"
+    },
+    {
+      "nombre": "miSombra",
+      "apellido": "bendecida",
+      "promedio": 9,
+      "id": "4e0d"
+    },
+    {
+      "id": "cd1b",
+      "nombre": "Orson",
+      "apellido": "ScotCard",
+      "promedio": 10
+    }
+  ],
+  "Cursos": [
+    {
+      "nombre": "reactJS",
+      "duracion": "2 semanas",
+      "dificultad": "facil",
+      "id": "d01d"
+    },
+    {
+      "nombre": "Backend lvl god",
+      "duracion": "una vida",
+      "dificultad": "heroe romano",
+      "id": "31f5"
+    },
+    {
+      "nombre": "cosas raras",
+      "duracion": "5 min",
+      "dificultad": "irriosoria",
+      "id": "ae6a"
+    }
+  ]
+}
